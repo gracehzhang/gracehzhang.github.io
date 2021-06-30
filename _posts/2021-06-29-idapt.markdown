@@ -6,7 +6,7 @@ image: images/idapt2021.gif
 categories: research
 author: "Grace Zhang"
 authors: "<strong>Grace Zhang</strong>, Linghan Zhong, Youngwoon Lee, Joseph J. Lim"
-venue: "RSS 2021"
+venue: "Robotics Science and Systems"
 paper: http://www.roboticsproceedings.org/rss17/p006.pdf
 website: https://clvrai.github.io/idapt/
 code: https://github.com/clvrai/idapt

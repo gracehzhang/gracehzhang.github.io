@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies"
+date:   2019-01-01 22:21:59 +00:00
+image: images/mcp2019.png
+categories: research
+authors: "Xue Bin Peng, Michael Chang, <strong>Grace Zhang</strong>, Pieter Abbeel, Sergey Levine"
+venue: "Neural Information Processing Systems"
+paper: https://arxiv.org/pdf/1905.09808.pdf
+website: https://xbpeng.github.io/projects/MCP/index.html
+---
