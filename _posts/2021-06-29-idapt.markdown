@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Policy Transfer across Visual and Dynamics Domain Gaps via Iterative Grounding"
+date:   2021-06-29 22:21:59 +00:00
+image: images/idapt2021.gif
+categories: research
+author: "Grace Zhang"
+authors: "<strong>Grace Zhang</strong>, Linghan Zhong, Youngwoon Lee, Joseph J. Lim"
+venue: "RSS 2021"
+paper: http://www.roboticsproceedings.org/rss17/p006.pdf
+website: https://clvrai.github.io/idapt/
+code: https://github.com/clvrai/idapt
+---
