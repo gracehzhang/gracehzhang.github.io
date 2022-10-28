@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning"
+date:   2019-01-01 22:21:59 +00:00
+image: images/awr2019.png
+categories: research
+authors: "Xue Bin Peng, Aviral Kumar, <strong>Grace Zhang</strong>, Sergey Levine"
+venue: "arXiv Preprint 2019"
+paper: https://arxiv.org/abs/1910.00177
+website: https://xbpeng.github.io/projects/AWR/index.html
+---
